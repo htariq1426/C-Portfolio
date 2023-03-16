@@ -11,6 +11,6 @@ Change string model to match the name for large and small models
   
 
 
-Remeber to use the smaller bol and commenting out the larger blob to rum the smaller model and vice versa.
+Remember to use the smaller blob and commenting out the larger blob to rum the smaller model and vice versa.
   
 Thats all.
